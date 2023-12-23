@@ -98,9 +98,9 @@ TEST_CASE("Gears") {
             lines.push_back(line);
         }
         // For every star, search for adjacent digits from different numbers, if two are found: it's a gear!
-        for(auto line : lines) {
-            line.fin
-        }
+        // for(auto line : lines) {
+        //     line.fin
+        // }
         // 489*540, 906*634....
         istream.close();
         CHECK(!istream.is_open());
